@@ -1,0 +1,24 @@
+Sample Phishing Email
+From: Microsoft Support support@m1crosoft-secure.com
+To: you@example.com
+Subject: URGENT: Unusual sign-in activity detected
+
+Dear Customer,
+
+We detected unusual activity in your Microsoft account and temporarily locked it for your protection.
+Please confirm your identity by logging in immediately. If you don’t verify within 24 hours, your account will be permanently suspended.
+
+👉 Verify Now
+
+
+
+Sincerely,
+Microsoft Account Team
+Summary of Phishing Traits Identified
+#	Trait      	          		 Evidence	      
+1	Spoofed sender address  	"m1crosoft-secure.com"	 
+2	Header discrepancies  	        +Return path likely mismatched	
+3	Suspicious links		Points to fake domain	
+4	Urgent language			Threat of account suspension	
+5	Mismatched URLs			Hover shows a phishing domain	
+6	minor grammar issues		No name used	
